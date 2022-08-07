@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/Bv9clLZ.gif)
+![](https://github.com/trishtruong/CodePath-PreWork/blob/main/trish%20truong-pre%20work-%20tip%20calculator.gif)
 
 <!-- GIF created with [LiceCap](http://www.cockos.com/licecap/). -->
 
