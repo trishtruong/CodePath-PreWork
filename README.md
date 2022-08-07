@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![app walk through](https://i.imgur.com/YuIKB4v.gif)
+![](https://i.imgur.com/Bv9clLZ.gif)
 
 <!-- GIF created with [LiceCap](http://www.cockos.com/licecap/). -->
 
